@@ -16,7 +16,6 @@ body {
     display:flex;
     flex-direction: column;
     justify-content: center;
-    align-items: left;
   }
   
   .emoji h2 {
@@ -38,7 +37,6 @@ body {
     padding: 1rem;
     border-radius: 8px;
     margin-top: auto;
-    align-self: stretch;
   }
 
 
